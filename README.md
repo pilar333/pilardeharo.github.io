@@ -1,6 +1,5 @@
-# ⭐Welcome to Pilar's Github Website⭐
+# ⭐Welcome to my Web Mapping Protfolio⭐
 
-# Welcome to my Web Mapping Portfolio!
 Hi, I'm Pilar
 This is a very basic first page for my website, which I will be building as part of the GIS course.
 Here are a few things I might include later:
